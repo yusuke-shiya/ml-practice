@@ -268,6 +268,7 @@ rfc3986-validator==0.1.1
 rpds-py==0.18.1
     # via jsonschema
     # via referencing
+ruff==0.4.5
 scikit-learn==1.5.0
     # via practice
 scipy==1.13.1
